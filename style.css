@@ -18,7 +18,7 @@ body,html {
 }
 
 .key {
-  border: .4rem solid black;
+  border: .3rem solid rgb(249, 249, 248);
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
@@ -28,7 +28,7 @@ body,html {
   text-align: center;
   color: white;
   background: rgba(0,0,0,0.4);
-  text-shadow: 0 0 .5rem black;
+  text-shadow: 0 0 .5rem rgb(188, 183, 183);
 }
 
 .playing {
